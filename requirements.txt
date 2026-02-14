@@ -1,0 +1,14 @@
+# Base
+python-dateutil>=2.8
+pytz
+
+# Data
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0
+
+# HTTP / compression
+requests>=2.31
+
+# Crypto data
+ccxt>=4.2
